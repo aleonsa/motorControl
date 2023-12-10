@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "esp32_motorControl_StateFeedback",
+			"path": "."
+		},
+		{
+			"name": "elecPot_sinePWM",
+			"path": "../../PROYECTO3_ElecPot/elecPot_sinePWM"
+		}
+	],
+	"settings": {}
+}
